@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zhongxinzhi15
+- 👀 I’m interested in Data Science student proficient in Python and pandas. 
+- 🌱 I’m currently learning Committed to analyzing data to derive actionable insights.
